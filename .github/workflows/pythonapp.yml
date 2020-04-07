@@ -26,4 +26,5 @@ jobs:
     
     - name: validate directory
       run: |
+        pwd && cat app.py
         pwd && ls -al
