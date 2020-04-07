@@ -26,4 +26,4 @@ jobs:
     
     - name: validate directory
       run: |
-        pip list |grep "Flask"
+        pwd && ls -al
