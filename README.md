@@ -1,8 +1,8 @@
 # Git Branching Model
-
+  ![Python application](https://github.com/tinnaratA/git-branching/workflows/Python%20application/badge.svg)
   Tutorial how to use git branch right. The tutorial will give you common understand<br>
   How to use git branch properly .
-  
+
 ## About Author
   ### Tinnarat Aromsuk
   
