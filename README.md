@@ -5,7 +5,7 @@
 
 ## About Author
   ### Tinnarat Aromsuk
-  ### Workplace : GLS
+  ### Workplace : GLS-HMS
   Nothing about syntax
   
 ## Project Structure
