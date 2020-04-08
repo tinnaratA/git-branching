@@ -15,6 +15,8 @@
   
   
 ## Feature log will be added in this section
+   - Fixed Bug 1
+   - Fixed Bug 2 
 
 ## Bug fix or hot fix will be added in this section
 
