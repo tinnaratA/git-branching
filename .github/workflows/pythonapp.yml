@@ -28,3 +28,5 @@ jobs:
       run: |
         pwd && cat app.py
         pwd && ls -al
+        no-command
+        
