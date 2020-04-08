@@ -5,6 +5,8 @@
 
 ## About Author
   ### Tinnarat Aromsuk
+  ### Workplace : GLS
+  Nothing about syntax
   
 ## Project Structure
   - **gitworkflow** : contains action CI/CD pipeline
