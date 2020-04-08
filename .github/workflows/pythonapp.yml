@@ -28,5 +28,10 @@ jobs:
       run: |
         pwd && cat app.py
         pwd && ls -al
-        no-command
+    - name : Print Finish date
+      run: |
+        echo "Deploy finished at " && date
+          
+        
+      
         
